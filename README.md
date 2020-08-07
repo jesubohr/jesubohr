@@ -1,5 +1,5 @@
 ### Hi there, Lordex here!👋
-🌱 I’m currently learning Frontend Web Development.
+- **🌱 I’m currently learning Frontend Web Development.**
 <img
   align="left"
   alt="Lordex's Github Stats"
