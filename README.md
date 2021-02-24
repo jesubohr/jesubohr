@@ -1,13 +1,13 @@
-### Hi there, Lordex here!👋
+### Hi there, Jesus here!👋
 - *🌱 Learning Frontend Web Development.*
 - *🔭 Working on small and functional web apps to gain experience.*
 
 <br/>
-<img align="left" alt="Lordex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lordex18&show_icons=true&hide_border=true">
+<img align="left" alt="Jesus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jesubohr&show_icons=true&hide_border=true">
   
   
 <!--
-**Lordex18/Lordex18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jesubohr/jesubohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
