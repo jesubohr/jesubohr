@@ -10,12 +10,15 @@ I'm a Frontend Developer, code & tech apasionated, and a forever student.
 ## 🚀My Projects
 I love putting into practice my knowledge and skills while developing useful/fun projects by myself. Here are the ones I consider more relevant.
 
-<div style="display: grid; grid-template-columns: 50% 50%; gap: 1rem; margin-bottom: 1rem;">
+<div style="display: grid; grid-template-columns: 50% 50%; margin-bottom: 1rem;">
   <a href="https://github.com/jesubohr/scales2care">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=scales2care&theme=aura" alt="scales2care repo" />
   </a>
   <a href="https://github.com/jesubohr/web-sandbox">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=web-sandbox&theme=aura" alt="web-sandbox repo" />
+  </a>
+  <a href="https://github.com/jesubohr/ToDoist">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="todoist repo" />
   </a>
   <a href="https://github.com/jesubohr/Hostender">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=hostender&theme=aura" alt="hostender repo" />
