@@ -20,8 +20,8 @@ I love putting into practice my knowledge and skills while developing useful/fun
   <a href="https://github.com/jesubohr/ToDoist">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="todoist repo" />
   </a>
-  <a href="https://github.com/jesubohr/Hostender">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=hostender&theme=aura" alt="hostender repo" />
+  <a href="https://github.com/jesubohr/Quizzer">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=quizzer&theme=aura" alt="hostender repo" />
   </a>
 </div>
 
