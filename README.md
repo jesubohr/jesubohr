@@ -12,16 +12,16 @@ I love putting into practice my knowledge and skills while developing useful/fun
 
 <div style="display: grid; grid-template-columns: 50% 50%; margin-bottom: 1rem;">
   <a href="https://github.com/jesubohr/scales2care">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=scales2care&theme=aura" alt="scales2care repo" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=scales2care&theme=aura" alt="Scales2Care repo" />
   </a>
-  <a href="https://github.com/jesubohr/web-sandbox">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=web-sandbox&theme=aura" alt="web-sandbox repo" />
+  <a href="https://github.com/jesubohr/GenPass">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=genpass&theme=aura" alt="GenPass repo" />
   </a>
   <a href="https://github.com/jesubohr/ToDoist">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="todoist repo" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="Todoist repo" />
   </a>
-  <a href="https://github.com/jesubohr/Quizzer">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=quizzer&theme=aura" alt="hostender repo" />
+  <a href="https://github.com/jesubohr/jesubohr.dev">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=jesubohr.dev&theme=aura" alt="Jesubohr.dev repo" />
   </a>
 </div>
 
