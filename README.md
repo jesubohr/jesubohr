@@ -11,17 +11,17 @@ I'm a Frontend Developer, code & tech apasionated, and a forever student.
 I love putting into practice my knowledge and skills while developing useful/fun projects by myself. Here are the ones I consider more relevant.
 
 <div style="display: grid; grid-template-columns: 50% 50%; margin-bottom: 1rem;">
-  <a href="https://github.com/jesubohr/scales2care">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=scales2care&theme=aura" alt="Scales2Care repo" />
+  <a href="https://github.com/jesubohr/ToDoist">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="ToDoist repo" />
+  </a>
+  <a href="https://github.com/jesubohr/RecipeAI">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=recipeai&theme=aura" alt="RecipeAI repo" />
+  </a>
+  <a href="https://github.com/jesubohr/ChatGPT">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=chatgpt&theme=aura" alt="ChatGPT repo" />
   </a>
   <a href="https://github.com/jesubohr/GenPass">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=genpass&theme=aura" alt="GenPass repo" />
-  </a>
-  <a href="https://github.com/jesubohr/ToDoist">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="Todoist repo" />
-  </a>
-  <a href="https://github.com/jesubohr/jesubohr.dev">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=jesubohr.dev&theme=aura" alt="Jesubohr.dev repo" />
   </a>
 </div>
 
