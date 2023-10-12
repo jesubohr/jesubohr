@@ -5,8 +5,6 @@ I'm a Frontend Developer, code & tech apasionated, and a forever student.
 - 📫 How to reach me: **jesus.borrero.fernandez@gmail.com**
 - 📎 [My Complete Resume](./assets/JesusBorreroCV.pdf)
 
-
-
 ## 🚀My Projects
 I love putting into practice my knowledge and skills while developing useful/fun projects by myself. Here are the ones I consider more relevant.
 
@@ -26,7 +24,6 @@ I love putting into practice my knowledge and skills while developing useful/fun
 </div>
 
 
-
 ## 👨🏻‍💻My Tech Stack
 | Languages | Frontend | Backend |
 | --------- | -------- | ------- |
@@ -37,7 +34,6 @@ I love putting into practice my knowledge and skills while developing useful/fun
 | ![MongoDB](https://img.shields.io/badge/mongodb-222.svg?style=for-the-badge&logo=mongodb) | ![GIT](https://img.shields.io/badge/git-f25a40.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/vs%20code-222.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7) ![Linux](https://img.shields.io/badge/linux-ffb200.svg?style=for-the-badge&logo=linux&logoColor=222) ![Docker](https://img.shields.io/badge/docker-1C95D0.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 
-
 ## 📊My Stats
 <p>
   <a href="https://github.com/jesubohr/jesubohr">
@@ -46,6 +42,12 @@ I love putting into practice my knowledge and skills while developing useful/fun
   <a href="https://github.com/jesubohr?tab=repositories">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=jesubohr&show_icons=true&theme=aura&include_all_commits=true&count_private=true" alt="jesubohr stats" />
   </a>
+</p>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jesubohr&theme=aura&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&ring=FFC83D&fire=FFC83D&currStreakLabel=FFC83D" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=jesubohr&date_format=j%20M%5B%20Y%5D&ring=FFC83D&fire=FFC83D&currStreakLabel=FFC83D" />
+    </picture>
 </p>
 
 
