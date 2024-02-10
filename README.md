@@ -9,17 +9,17 @@ I'm a Frontend Developer, code & tech apasionated, and a forever student.
 I love putting into practice my knowledge and skills while developing useful/fun projects by myself. Here are the ones I consider more relevant.
 
 <div style="display: grid; grid-template-columns: 50% 50%; margin-bottom: 1rem;">
-  <a href="https://github.com/jesubohr/ToDoist">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=todoist&theme=aura" alt="ToDoist repo" />
+  <a href="https://github.com/jesubohr/minimal-json-resume">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=minimal-json-resume&theme=aura" alt="Minimalist Resume JSON repo" />
+  </a>
+  <a href="https://github.com/jesubohr/hotkeypad">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=hotkeypad&theme=aura" alt="HotKeyPad repo" />
   </a>
   <a href="https://github.com/jesubohr/RecipeAI">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=recipeai&theme=aura" alt="RecipeAI repo" />
   </a>
   <a href="https://github.com/jesubohr/ChatGPT">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=chatgpt&theme=aura" alt="ChatGPT repo" />
-  </a>
-  <a href="https://github.com/jesubohr/GenPass">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=genpass&theme=aura" alt="GenPass repo" />
   </a>
 </div>
 
