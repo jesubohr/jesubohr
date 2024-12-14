@@ -1,5 +1,5 @@
 # ![](./assets/jesubohr-banner.png)
-I'm a Frontend Developer, code & tech apasionated, and a forever student.
+I'm a Full-stack Developer, code & tech apasionated, and a forever student.
 - *🌱 Always learning about Web Development.*
 - 💬 Ask me about anything, I'm always willing to help others🤗.
 - 📫 How to reach me: **jesus.borrero.fernandez@gmail.com**
