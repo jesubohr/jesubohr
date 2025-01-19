@@ -26,11 +26,11 @@ I love putting into practice my knowledge and skills while developing useful/fun
   <a href="https://github.com/jesubohr/hotkeypad">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=hotkeypad&theme=aura" alt="HotKeyPad repo" />
   </a>
-  <a href="https://github.com/jesubohr/RecipeAI">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=recipeai&theme=aura" alt="RecipeAI repo" />
+  <a href="https://github.com/jesubohr/dunor-boutique">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=dunor-boutique&theme=aura" alt="Dunor Boutique repo" />
   </a>
-  <a href="https://github.com/jesubohr/ChatGPT">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=chatgpt&theme=aura" alt="ChatGPT repo" />
+  <a href="https://github.com/jesubohr/notecrypt">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=notecrypt&theme=aura" alt="Notecrypt repo" />
   </a>
 </div>
 
