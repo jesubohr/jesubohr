@@ -3,34 +3,14 @@ I'm a Full-stack Developer, code & tech apasionated, and a forever learner.
 - 💬 Ask me about anything, I'm always willing to help others🤗.
 - 📫 How to reach me: **jesus.borrero.fernandez@gmail.com**
 - 📎 [PORTFOLIO](https://me.jesubohrdev.com)
+- [![Tip me](https://img.shields.io/badge/tippa-Tip%20me-2dd4a8?style=for-the-badge)](https://trytippa.com/d/jesubohr)
 
 ## 📊My Stats
 <div align="center">
-    <p><a href="https://github.com/jesubohr/jesubohr">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesubohr&show_icons=true&theme=aura&layout=compact&hide=elixir,java,jupyter%20notebook" alt="jesubohr langs" />
-    </a></p>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jesubohr&theme=aura&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&ring=FFC83D&fire=FFC83D&currStreakLabel=FFC83D" />
         <img src="https://github-readme-streak-stats.herokuapp.com?user=jesubohr&date_format=j%20M%5B%20Y%5D&ring=FFC83D&fire=FFC83D&currStreakLabel=FFC83D" />
     </picture>
-</div>
-
-## 🚀My Projects
-I love putting into practice my knowledge and skills while developing useful/fun projects by myself. Here are the ones I consider more relevant.
-
-<div style="display: grid; grid-template-columns: 50% 50%; margin-bottom: 1rem;">
-  <a href="https://github.com/jesubohr/minimal-json-resume">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=minimal-json-resume&theme=aura" alt="Minimalist Resume JSON repo" />
-  </a>
-  <a href="https://github.com/jesubohr/hotkeypad">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=hotkeypad&theme=aura" alt="HotKeyPad repo" />
-  </a>
-  <a href="https://github.com/jesubohr/dunor-boutique">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=dunor-boutique&theme=aura" alt="Dunor Boutique repo" />
-  </a>
-  <a href="https://github.com/jesubohr/scales2care">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=jesubohr&repo=scales2care&theme=aura" alt="Scales2Care repo" />
-  </a>
 </div>
 
 
