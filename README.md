@@ -3,7 +3,6 @@ I'm a Full-stack Developer, code & tech apasionated, and a forever learner.
 - 💬 Ask me about anything, I'm always willing to help others🤗.
 - 📫 How to reach me: **jesus.borrero.fernandez@gmail.com**
 - 📎 [PORTFOLIO](https://me.jesubohrdev.com)
-- [![Tip me](https://img.shields.io/badge/tippa-Tip%20me-2dd4a8?style=for-the-badge)](https://trytippa.com/d/jesubohr)
 
 ## 📊My Stats
 <div align="center">
@@ -25,7 +24,10 @@ I'm a Full-stack Developer, code & tech apasionated, and a forever learner.
 
 
 
-## 📫Connect with me
+## 📫Support Me
+<div align="left">
+  <a href="https://trytippa.com/d/jesubohr"><img src="https://trytippa.com/api/badge/jesubohr" alt="Donate to jesubohr" /></a>
+</div>
 <p align="left">
   <a href="https://linkedin.com/in/jesusborrero" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesusborrero linkedin" height="30" width="40" />
